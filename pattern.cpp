@@ -4,6 +4,31 @@ using namespace std;
 // Function to demonstrate printing pattern
 void pypart(int n)
 {
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	// Printing stars
+            cout << "* ";
+        }
+
+        // Ending line after each row
+        cout << endl;
+    }
+
 }
            
  
