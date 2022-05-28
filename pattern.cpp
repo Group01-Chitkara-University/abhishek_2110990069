@@ -1,27 +1,14 @@
-include <iostream>
+#include <iostream>
 using namespace std;
  
 // Function to demonstrate printing pattern
 void pypart(int n)
 {
-	
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	// Printing stars
+	// Outer loop to handle number of rows
+    // n in this case
+    for (int i = 0; i < n; i++) {
+      // Printing stars
             cout << "* ";
         }
 
