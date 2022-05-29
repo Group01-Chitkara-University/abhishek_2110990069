@@ -8,7 +8,14 @@ void pypart(int n)
 	// Outer loop to handle number of rows
     // n in this case
     for (int i = 0; i < n; i++) {
-      // Printing stars
+      
+	    // Inner loop to handle number of columns
+        // values changing acc. to outer loop
+        for (int j = 0; j <= i; j++) {
+
+
+
+	    // Printing stars
             cout << "* ";
         }
 
